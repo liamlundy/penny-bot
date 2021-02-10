@@ -16,7 +16,8 @@ The Penny C Hampster bot is a custom bot designed for interacting with her perso
 4. Create virtual environment `python -m venv venv`
    * Activate the virtual environment `source venv/bin/activate`
 5. Install dependencies `poetry install`
-6. Run bot! `python penny_bot/run.py`
+6. Set environment variable: `export DISCORD_BOT_TOKEN=<token>`
+7. Run bot! `python penny_bot/run.py`
 
 
 
@@ -26,3 +27,6 @@ The Penny C Hampster bot is a custom bot designed for interacting with her perso
 - [ ] Commands
 - [ ] Responses
 - [ ] League integration
+- [ ] Good Nut!
+- [ ] Affirmations
+- [ ] Code coverage
